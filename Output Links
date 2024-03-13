@@ -1,0 +1,22 @@
+
+## **_Nodejs file system Task_** 
+
+Render Links
+
++ https://day-25-task.onrender.com/
+  
++ https://day-25-task.onrender.com/write
+  
++ https://day-25-task.onrender.com/read
+  
++ https://day-25-task.onrender.com/getfiles
+
+Postman Links
+
++ http://localhost:4000
+
++ http://localhost:4000/write
+
++ http://localhost:4000/read
+
++ http://localhost:4000/getfiles
